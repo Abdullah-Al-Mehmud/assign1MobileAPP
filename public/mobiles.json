@@ -1,0 +1,62 @@
+[
+  {
+    "mobilePic": "https://i.ibb.co/ck1rFft/mbl2.jpg",
+    "name": "Alpha One",
+    "price": "$799",
+    "launchDate": "2023-04-15",
+    "processor": "Snapdragon 888",
+    "ram": "8GB",
+    "ROM": "128GB",
+    "battery": "4500mAh"
+  },
+  {
+    "mobilePic": "https://i.ibb.co/VWjtkKt/mbl1.jpg",
+    "name": "Beta Pro",
+    "price": "$999",
+    "launchDate": "2023-05-20",
+    "processor": "Apple A15 Bionic",
+    "ram": "6GB",
+    "ROM": "256GB",
+    "battery": "4000mAh"
+  },
+  {
+    "mobilePic": "https://i.ibb.co/ck1rFft/mbl2.jpg",
+    "name": "Gamma Max",
+    "price": "$699",
+    "launchDate": "2023-03-10",
+    "processor": "Exynos 2100",
+    "ram": "12GB",
+    "ROM": "128GB",
+    "battery": "5000mAh"
+  },
+  {
+    "mobilePic": "https://i.ibb.co/VWjtkKt/mbl1.jpg",
+    "name": "Delta Prime",
+    "price": "$899",
+    "launchDate": "2023-06-01",
+    "processor": "Kirin 9000",
+    "ram": "8GB",
+    "ROM": "256GB",
+    "battery": "4200mAh"
+  },
+  {
+    "mobilePic": "https://i.ibb.co/ck1rFft/mbl2.jpg",
+    "name": "Epsilon Ultra",
+    "price": "$1199",
+    "launchDate": "2023-07-05",
+    "processor": "Snapdragon 8 Gen 1",
+    "ram": "16GB",
+    "ROM": "512GB",
+    "battery": "4500mAh"
+  },
+  {
+    "mobilePic": "https://i.ibb.co/VWjtkKt/mbl1.jpg",
+    "name": "Zeta Lite",
+    "price": "$499",
+    "launchDate": "2023-02-25",
+    "processor": "MediaTek Dimensity 1000",
+    "ram": "6GB",
+    "ROM": "64GB",
+    "battery": "4000mAh"
+  }
+]
